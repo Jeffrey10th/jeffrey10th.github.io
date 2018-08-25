@@ -1,11 +1,14 @@
 # Hello World!
 
-This is Jeffrey10th's (that's me!) website. Take a look at my projects:
+This is a website built to suit my personal needs.
+
+
+### My projects:
 
 * [Jeffrey10th/cpp](https://github.com/Jeffrey10th/cpp)
 * [Jeffrey10th/testing](https://github.com/Jeffrey10th/testing)
+* [Jeffrey10th/simple-cpp](https://github.com/Jeffrey10th/simple-cpp)
 
-### Other resources on my site:
 
-* [The Code Journal](https://jeffrey10th.github.io/code-journal/)
 
+Exclusive documentation for the project **cpp** is right [here](https://jeffrey10th.github.io/cpp).
